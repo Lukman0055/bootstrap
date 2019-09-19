@@ -142,7 +142,6 @@
                         <td><?php echo $ket; ?></td>
                     </tr>
                 </table>     
-
             </div>            
         </div>
     </div>

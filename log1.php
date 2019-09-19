@@ -5,7 +5,7 @@ if (isset ($_POST['Login'])) {
     $pass = $_POST['pass'];
     if ($user == "lukman" && $pass = "123") {
         $_SESSION['Login'] = $user;
-        echo "Silahkan masuk<br>";
+        echo "Silahkan Masuk<br>";
         echo "<a href='latihan1.php'>Daftar PPBD SMK ASSALAAM BANDUNG</a><br>";
 
     }else {
