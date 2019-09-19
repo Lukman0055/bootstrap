@@ -108,6 +108,8 @@
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
         <div class="col-md-12" style="background:none">
         <center>
@@ -142,6 +144,7 @@
                         <td><?php echo $ket; ?></td>
                     </tr>
                 </table>     
+
             </div>            
         </div>
     </div>
